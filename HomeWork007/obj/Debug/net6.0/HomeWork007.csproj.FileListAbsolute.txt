@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/bin/Debug/net6.0/HomeWork007
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/bin/Debug/net6.0/HomeWork007.deps.json
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/bin/Debug/net6.0/HomeWork007.runtimeconfig.json
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/bin/Debug/net6.0/HomeWork007.dll
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/bin/Debug/net6.0/HomeWork007.pdb
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/HomeWork007.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/HomeWork007.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/HomeWork007.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/HomeWork007.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/HomeWork007.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/HomeWork007.dll
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/refint/HomeWork007.dll
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/HomeWork007.pdb
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/HomeWork007.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork007/obj/Debug/net6.0/ref/HomeWork007.dll
