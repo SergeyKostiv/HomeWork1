@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/bin/Debug/net6.0/HomeWork008
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/bin/Debug/net6.0/HomeWork008.deps.json
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/bin/Debug/net6.0/HomeWork008.runtimeconfig.json
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/bin/Debug/net6.0/HomeWork008.dll
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/bin/Debug/net6.0/HomeWork008.pdb
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/HomeWork008.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/HomeWork008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/HomeWork008.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/HomeWork008.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/HomeWork008.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/HomeWork008.dll
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/refint/HomeWork008.dll
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/HomeWork008.pdb
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/HomeWork008.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/HomeWork/HomeWork008/obj/Debug/net6.0/ref/HomeWork008.dll
